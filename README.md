@@ -1,6 +1,6 @@
 ## Hi there, I'm Nesaratnam Sivanoly
 [![Microsoft_Outlook Badge](https://img.shields.io/badge/-nsivanoly@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsivanoly@gmail.com "Connect via Email")
-[![LinkedIn_Badge](https://img.shields.io/badge/-sivanoly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanoly/)
+[![LinkedIn_Badge](https://img.shields.io/badge/-sivanoly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nsivanoly/)
 <div style="margin-bottom: 40px"></div>
 
 - 🔭 I’m currently working as a Solutions Engineer
